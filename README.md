@@ -6,3 +6,5 @@ Point in himalaya.kml are taken from Carter's Classification of the Himalaya (ht
 Point in peak-opened-in-nepal.kml are taken from http://www.bochi-bochitrek.com/nepal-peak-climbing-list.pdf
 
 Points in Westra folder are taken from http://westra.ru/passes/
+
+Points in Himalaya/Nepal/Langtang are taken from different maps. Langtang peaks and saddles most accurate.kml in MY OPINION is most accurate for now.
