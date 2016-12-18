@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>langtang peaks from google earth.kml</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>google peaks</name>
+		<open>1</open>
+		<Placemark>
+			<name>Langtang ri</name>
+			<LookAt>
+				<longitude>85.6891308581322</longitude>
+				<latitude>28.39946901220268</latitude>
+				<altitude>0</altitude>
+				<heading>0.01004492847005867</heading>
+				<tilt>49.04456148558578</tilt>
+				<range>4494.846782122047</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>85.68374596423475,28.38170361757047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>porong ri</name>
+			<LookAt>
+				<longitude>85.71740263675973</longitude>
+				<latitude>28.41890544575989</latitude>
+				<altitude>0</altitude>
+				<heading>0.02348531679875733</heading>
+				<tilt>49.07524353059684</tilt>
+				<range>8956.73939266675</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>85.72018349805151,28.3893209085143,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ramthang karpo ri</name>
+			<LookAt>
+				<longitude>85.75260396520284</longitude>
+				<latitude>28.280516079408</latitude>
+				<altitude>0</altitude>
+				<heading>0.03982989238430232</heading>
+				<tilt>58.33228372629306</tilt>
+				<range>6157.692755901499</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>85.74831169755639,28.24922750941558,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>gurkarpo ri</name>
+			<LookAt>
+				<longitude>85.78152473368867</longitude>
+				<latitude>28.24706254130678</latitude>
+				<altitude>0</altitude>
+				<heading>0.05350362840355929</heading>
+				<tilt>58.34732095774834</tilt>
+				<range>8122.158198909644</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>85.77507568647674,28.20961112391003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>dorje lakpa</name>
+			<LookAt>
+				<longitude>85.78394206737859</longitude>
+				<latitude>28.1989348035603</latitude>
+				<altitude>0</altitude>
+				<heading>0.05472410549464268</heading>
+				<tilt>58.32355520966408</tilt>
+				<range>7902.635312842424</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>85.77840723604093,28.17369932843831,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>phurbi chyachu</name>
+			<LookAt>
+				<longitude>85.87038601395179</longitude>
+				<latitude>28.1387762887728</latitude>
+				<altitude>0</altitude>
+				<heading>0.0953075596719378</heading>
+				<tilt>60.02131613922347</tilt>
+				<range>2578.180360815359</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>85.86910695587109,28.12982624661336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>dragmarpo ri</name>
+			<LookAt>
+				<longitude>85.67168339177928</longitude>
+				<latitude>28.31871734310248</latitude>
+				<altitude>0</altitude>
+				<heading>0.001795130228864907</heading>
+				<tilt>56.94871907271396</tilt>
+				<range>5065.771373099323</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>85.66799509930705,28.29641017232091,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>tsangbu ri</name>
+			<LookAt>
+				<longitude>85.56042835123105</longitude>
+				<latitude>28.32049808536686</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05126542589809453</heading>
+				<tilt>58.26389609687893</tilt>
+				<range>9689.817213396913</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>85.55335484491283,28.27186068343406,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>langtang lirung</name>
+			<LookAt>
+				<longitude>85.52071723175742</longitude>
+				<latitude>28.30619500503983</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07010465219780074</heading>
+				<tilt>58.26012635512775</tilt>
+				<range>9195.804816839405</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>85.51676826622383,28.25612482776321,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>baden-powell peak</name>
+			<LookAt>
+				<longitude>85.53418003550563</longitude>
+				<latitude>28.1777600484377</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06438507511500934</heading>
+				<tilt>60.01837294570711</tilt>
+				<range>2122.35786691743</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>85.53267947465855,28.16695083798691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>yala peak</name>
+			<LookAt>
+				<longitude>85.6236591828627</longitude>
+				<latitude>28.23156474761806</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02034555846464719</heading>
+				<tilt>52.17119375458655</tilt>
+				<range>1932.890901768059</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>85.62731176031093,28.22994442219066,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ganchempo</name>
+			<LookAt>
+				<longitude>85.67880712750599</longitude>
+				<latitude>28.18361821086709</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003781744060626552</heading>
+				<tilt>58.49571166185322</tilt>
+				<range>2780.448734869488</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>85.67826354575108,28.16886403066831,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
