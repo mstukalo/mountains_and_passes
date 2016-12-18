@@ -1,0 +1,2830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<open>1</open>
+		<Style id="mountain-5k-style">
+			<IconStyle>
+				<scale>0.800000</scale>
+				<Icon>
+					<href>https://github.com/mstukalo/himalaya2KML/blob/master/himalaya2KML/assets/images/mountain5k.png?raw=true</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="mountain-8k-style">
+			<IconStyle>
+				<scale>0.800000</scale>
+				<Icon>
+					<href>https://github.com/mstukalo/himalaya2KML/blob/master/himalaya2KML/assets/images/mountain8k.png?raw=true</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="mountain-6k-style">
+			<IconStyle>
+				<scale>0.800000</scale>
+				<Icon>
+					<href>https://github.com/mstukalo/himalaya2KML/blob/master/himalaya2KML/assets/images/mountain6k.png?raw=true</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="mountain-7k-style">
+			<IconStyle>
+				<scale>0.800000</scale>
+				<Icon>
+					<href>https://github.com/mstukalo/himalaya2KML/blob/master/himalaya2KML/assets/images/mountain7k.png?raw=true</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>Bagmati</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Bagmati </description>
+			<Folder>
+				<name>Ganesh</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Ganesh </description>
+				<Placemark>
+					<name>Ganesh  III </name>
+					<description>7110 meters. Salasungo</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>85.121941,28.335278,7110.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ganesh 1 </name>
+					<description>7429 meters. Yangra</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>85.127220,28.391666,7429.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ganesh II</name>
+					<description>7111 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>85.058891,28.379444,7111.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ganesh IV </name>
+					<description>7052 meters. Pabil</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>85.061943,28.371389,7052.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ganesh V</name>
+					<description>6986 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.163612,28.331388,6986.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Paldor Peak</name>
+					<description>5896 meters</description>
+					<styleUrl>mountain-5k-style</styleUrl>
+					<Point>
+						<coordinates>85.183891,28.278610,5896.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Jugal</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Jugal </description>
+				<Placemark>
+					<name>Bhairab Takura </name>
+					<description>6799 meters. Madiya Peak</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.774445,28.198055,6799.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Dorje Lhakpa</name>
+					<description>6966 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.681946,28.173889,6966.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ganchenpo</name>
+					<description>6387 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.681946,28.168888,6387.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gurkarpo Ri</name>
+					<description>6891 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.777222,28.210556,6891.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gyalzen Peak</name>
+					<description>6151 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.838058,28.183332,6151.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Langsisa Ri</name>
+					<description>6427 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.713608,28.216944,6427.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Leonpo Gang</name>
+					<description>6979 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.800003,28.195833,6979.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Phurbi Chyachu</name>
+					<description>6631 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.869446,28.130556,6631.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Urknmang</name>
+					<description>6151 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.716110,28.168612,6151.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Langtang</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Langtang </description>
+				<Placemark>
+					<name>Baden Powell Scout Peak </name>
+					<description>5890 meters. Urkema Peak</description>
+					<styleUrl>mountain-5k-style</styleUrl>
+					<Point>
+						<coordinates>85.716110,28.173889,5890.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Bhemdang Ri</name>
+					<description>6150 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.665558,28.273611,6150.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Dhagpahe </name>
+					<description>6567 meters.  Yansa Tsenji </description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.611115,28.256390,6567.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Dragmorpa Ri </name>
+					<description>6185 meters.  Panaya Tippa </description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.666115,28.325277,6185.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kangja Chuli</name>
+					<description>5844 meters</description>
+					<styleUrl>mountain-5k-style</styleUrl>
+					<Point>
+						<coordinates>85.597221,28.150000,5844.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kyungya Ri    2</name>
+					<description>6506 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.667221,28.303333,6506.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kyungya Ri   1</name>
+					<description>6599 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.672501,28.296667,6599.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Langtang Lirung</name>
+					<description>7234 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>85.519447,28.256111,7234.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Langtang Ri</name>
+					<description>7205 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>85.683609,28.381945,7205.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Pashuwo</name>
+					<description>6177 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.165001,28.531668,6177.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Salbachum</name>
+					<description>6707 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.635277,28.270832,6707.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Yala</name>
+					<description>5732 meters</description>
+					<styleUrl>mountain-5k-style</styleUrl>
+					<Point>
+						<coordinates>85.625557,28.240000,5732.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Langtang Himal</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Langtang Himal </description>
+				<Placemark>
+					<name>Yubra Himal</name>
+					<description>6035 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.568054,28.274166,6035.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Bajhang</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Bajhang </description>
+			<Folder>
+				<name>Saipal</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Saipal </description>
+				<Placemark>
+					<name>Dhaulagiri</name>
+					<description>6632 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.462776,28.780277,6632.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Fimkof</name>
+					<description>6697 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>81.449997,29.900000,6697.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Fimkof West</name>
+					<description>6645 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>81.433334,29.883333,6645.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Saipal, East</name>
+					<description>6882 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>81.516670,29.883333,6882.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Surma Saravar Lekh</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Surma Saravar Lekh </description>
+				<Placemark>
+					<name><![CDATA[Surma­Sarovar, North]]></name>
+					<description>6523 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>81.083336,29.850000,6523.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Urai Lekh</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Urai Lekh </description>
+				<Placemark>
+					<name>Raksha Urai</name>
+					<description>6593 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>81.116669,29.950001,6593.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Chamlang/Makalu</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Chamlang/Makalu </description>
+			<Folder>
+				<name>Mahalangur/makalu</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Mahalangur/makalu </description>
+				<Placemark>
+					<name>Sherson </name>
+					<description>6422 meters.  Peak 3 </description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>87.143059,27.836945,6422.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Mahalangur/Makalu</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Mahalangur/Makalu </description>
+				<Placemark>
+					<name>Hongu </name>
+					<description>6764 meters. Sura Peak </description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.979446,27.825277,6764.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Peak 4</name>
+					<description>6736 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>87.050835,27.826944,6736.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Saldim </name>
+					<description>6374 meters. Peak 5 </description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>87.173058,27.821388,6374.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Tutse </name>
+					<description>6758 meters.  Peak 6 </description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>87.101387,27.771944,6758.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Yaupa</name>
+					<description>6432 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>87.128891,27.833611,6432.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Darchula</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Darchula </description>
+			<Folder>
+				<name><![CDATA[Byas­Rikhi]]></name>
+				<Snippet maxLines="2"> </Snippet>
+				<description><![CDATA[Byas­Rikhi ]]></description>
+				<Placemark>
+					<name>Api West</name>
+					<description>7100 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>80.916664,30.000000,7100.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Darchula/Bajhang</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Darchula/Bajhang </description>
+			<Folder>
+				<name><![CDATA[Byas­Rikhi]]></name>
+				<Snippet maxLines="2"> </Snippet>
+				<description><![CDATA[Byas­Rikhi ]]></description>
+				<Placemark>
+					<name>Nampa, South</name>
+					<description>6580 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>81.016670,29.966667,6580.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Gurans</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Gurans </description>
+				<Placemark>
+					<name>Nampa II</name>
+					<description>6700 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>81.107498,30.042500,6700.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Nampa III</name>
+					<description>6618 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>81.017502,29.982779,6618.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Yokopahar  </name>
+					<description>6401 meters. Nampa VIII</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>81.110558,29.835278,6401.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Dhaulagiri</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Dhaulagiri </description>
+			<Folder>
+				<name>Annapurna</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Annapurna </description>
+				<Placemark>
+					<name>Varaha Shikhar  </name>
+					<description>7647 meters. Fang</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>83.803329,28.578056,7647.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Dahaulagiri</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Dahaulagiri </description>
+				<Placemark>
+					<name>Gurja Himal</name>
+					<description>7193 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>83.276947,28.673889,7193.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Damodar</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Damodar </description>
+				<Placemark>
+					<name>Bhrikuti</name>
+					<description>6364 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.217781,29.893612,6364.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Dhaulagiri</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Dhaulagiri </description>
+				<Placemark>
+					<name>Churen</name>
+					<description>7371 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>83.214996,28.731943,7371.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Dhaulagiri I</name>
+					<description>8167 meters</description>
+					<styleUrl>mountain-8k-style</styleUrl>
+					<Point>
+						<coordinates>83.495277,28.696112,8167.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Dhaulagiri II</name>
+					<description>7751 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>83.389442,28.762777,7751.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Dhaulagiri III</name>
+					<description>7715 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>83.379440,28.754444,7715.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Dhaulagiri IV</name>
+					<description>7661 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>83.315277,28.738611,7661.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Dhaulagiri V</name>
+					<description>7618 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>83.365555,28.734444,7618.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Dhaulagiri VI</name>
+					<description>7268 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>83.275276,28.708332,7268.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Dogari Himal</name>
+					<description>6536 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.100830,28.767221,6536.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ghustong South</name>
+					<description>6465 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.246391,28.672222,6465.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ghustung North</name>
+					<description>6529 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.247780,28.680555,6529.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kambong Peak</name>
+					<description>6570 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.306664,28.659445,6570.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Manapathi</name>
+					<description>6380 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.458336,28.645555,6380.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Putha Hiunchuli</name>
+					<description>7246 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>83.148613,28.748890,7246.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sita Chuchura</name>
+					<description>6611 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.485275,28.783333,6611.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Tukuche Peak</name>
+					<description>6920 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.561943,28.745832,6920.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Mukut</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Mukut </description>
+				<Placemark>
+					<name>Dhampus</name>
+					<description>6012 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.615829,28.796944,6012.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Nilgiri</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Nilgiri </description>
+				<Placemark>
+					<name>Nilgiri Central</name>
+					<description>6940 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.706108,28.106112,6940.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Nilgiri North</name>
+					<description>7061 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>83.746666,28.689167,7061.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Nilgiri South</name>
+					<description>6839 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.732780,28.654167,6839.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Dhaulagiri/Mustang</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Dhaulagiri/Mustang </description>
+			<Folder>
+				<name>Mukut Himal</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Mukut Himal </description>
+				<Placemark>
+					<name>Tashi Kang</name>
+					<description>6386 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.631943,28.851667,6386.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Tsartse</name>
+					<description>6398 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.649719,28.860277,6398.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Dolakha</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Dolakha </description>
+			<Folder>
+				<name>Gaurishankar</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Gaurishankar </description>
+				<Placemark>
+					<name>Chekigo</name>
+					<description>6257 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.413330,27.906389,6257.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Dolpa</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Dolpa </description>
+			<Folder>
+				<name>Kanjiroba</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Kanjiroba </description>
+				<Placemark>
+					<name>Tso Karpo</name>
+					<description>6518 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>82.699997,29.366667,6518.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Dolpa/Karnali</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Dolpa/Karnali </description>
+			<Folder>
+				<name>Kanjirowa</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Kanjirowa </description>
+				<Placemark>
+					<name>Danfe Sail</name>
+					<description>6103 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.008888,29.672222,6103.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Norbu Kang</name>
+					<description>6005 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.092781,29.117222,6005.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Gandaki</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Gandaki </description>
+			<Folder>
+				<name>Annapurna</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Annapurna </description>
+				<Placemark>
+					<name>Annapurna 1</name>
+					<description>8091 meters</description>
+					<styleUrl>mountain-8k-style</styleUrl>
+					<Point>
+						<coordinates>83.822220,28.595833,8091.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Annapurna 2</name>
+					<description>7937 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>84.125000,28.534721,7937.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Annapurna 3</name>
+					<description>7555 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>83.991943,28.583611,7555.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Annapurna 4</name>
+					<description>7525 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>84.083885,28.537222,7525.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Annapurna South</name>
+					<description>7219 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>83.808334,28.517778,7219.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gandharva</name>
+					<description>6248 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.962502,28.537779,6248.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gangapurna</name>
+					<description>7455 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>83.949997,28.605000,7455.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hiunchuli</name>
+					<description>6441 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.850830,28.510834,6441.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Khang Sar Kang</name>
+					<description>7485 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>83.874725,28.613890,7485.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Lamjung Himal</name>
+					<description>6983 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.191666,28.489445,6983.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Madri Himal</name>
+					<description>5587 meters</description>
+					<styleUrl>mountain-5k-style</styleUrl>
+					<Point>
+						<coordinates>86.833611,28.937500,5587.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Singu Chuli</name>
+					<description>6501 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.885002,28.587500,6501.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Tarek Kang</name>
+					<description>7193 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>83.891113,28.390278,7193.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Tharpu Chuli </name>
+					<description>5663 meters. Tent Peak</description>
+					<styleUrl>mountain-5k-style</styleUrl>
+					<Point>
+						<coordinates>83.894447,28.558332,5663.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Tilicho Peak</name>
+					<description>7134 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>83.813889,28.832779,7134.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Damodar</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Damodar </description>
+				<Placemark>
+					<name>Chulu East</name>
+					<description>6584 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.036110,28.735832,6584.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Chulu West</name>
+					<description>6419 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.025558,28.743334,6419.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Pisang</name>
+					<description>6091 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.190277,26.649166,6091.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Lamjung</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Lamjung </description>
+				<Placemark>
+					<name>Ramdrong</name>
+					<description>4499 meters</description>
+					<styleUrl>mountain-5k-style</styleUrl>
+					<Point>
+						<coordinates>84.683060,28.416389,4499.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Manaslu Himal</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Manaslu Himal </description>
+				<Placemark>
+					<name>P2</name>
+					<description>6251 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.436943,28.516666,6251.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Mansiri</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Mansiri </description>
+				<Placemark>
+					<name>Baudha</name>
+					<description>6672 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.677223,28.378611,6672.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Himachuli West</name>
+					<description>7540 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>80.618614,28.435278,7540.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Himalchuli E.</name>
+					<description>7893 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>84.642220,28.435556,7893.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Himalchuli N.</name>
+					<description>7371 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>84.606392,28.449722,7371.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Khayan</name>
+					<description>6186 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.715279,28.633612,6186.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Manaslu</name>
+					<description>8163 meters</description>
+					<styleUrl>mountain-8k-style</styleUrl>
+					<Point>
+						<coordinates>84.561943,28.549444,8163.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Manaslu North</name>
+					<description>7157 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>84.544441,28.603889,7157.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ngadi Chuli </name>
+					<description>7871 meters. Peak 29 Dakura</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>84.569168,28.503611,7871.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Panpoche 1 </name>
+					<description>6620 meters.  Pang Phunch </description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.683334,28.628611,6620.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Panpoche 2 </name>
+					<description>6504 meters.  Pang Phunch </description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.686943,28.614166,6504.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Phungi</name>
+					<description>6538 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.485832,28.554443,6538.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Punchen Himal</name>
+					<description>6049 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.146667,28.661112,6049.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Samdo Peak</name>
+					<description>6335 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.696945,28.636110,6335.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Swelokhan</name>
+					<description>6180 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.645836,28.728056,6180.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Thulagi Peak</name>
+					<description>7059 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>84.522781,28.527779,7059.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Namjung Peri Himal</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Namjung Peri Himal </description>
+				<Placemark>
+					<name>Gyajinkang</name>
+					<description>7038 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>84.367775,28.735001,7038.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Peri</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Peri </description>
+				<Placemark>
+					<name>Cheo Himal</name>
+					<description>6820 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.451668,28.764444,6820.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Himlung Himal</name>
+					<description>7126 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>83.421944,28.842777,7126.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kang Guru</name>
+					<description>6981 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.322220,28.657499,6981.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Serang</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Serang </description>
+				<Placemark>
+					<name>Chamar</name>
+					<description>7187 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>84.946671,28.555279,7187.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Gandaki/Manang</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Gandaki/Manang </description>
+			<Folder>
+				<name>Patrung Himal</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Patrung Himal </description>
+				<Placemark>
+					<name>Khatung Kang</name>
+					<description>6484 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.921387,28.777500,6484.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Gorkha</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Gorkha </description>
+			<Folder>
+				<name>Ganesh</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Ganesh </description>
+				<Placemark>
+					<name>Ganesh VI</name>
+					<description>6480 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.086945,28.345278,6480.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Manaslu</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Manaslu </description>
+				<Placemark>
+					<name>Larkya Peak</name>
+					<description>6010 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.716942,28.216944,6010.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Siringi Himal</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Siringi Himal </description>
+				<Placemark>
+					<name>Tobsar Peak</name>
+					<description>6100 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.005280,28.594723,6100.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Humla</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Humla </description>
+			<Folder>
+				<name>Api Himal</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Api Himal </description>
+				<Placemark>
+					<name>Lhayul Peak</name>
+					<description>6397 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>80.868332,29.976667,6397.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Chandi Himal</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Chandi Himal </description>
+				<Placemark>
+					<name>Chandi Himal</name>
+					<description>6096 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>81.952782,30.358334,6096.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Kanjibora</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Kanjibora </description>
+				<Placemark>
+					<name>Tso  Karop Kang</name>
+					<description>6556 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>82.781670,29.368610,6556.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Janak</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Janak </description>
+			<Folder>
+				<name>Kanchanjunga</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Kanchanjunga </description>
+				<Placemark>
+					<name>Chaw Peak</name>
+					<description>6404 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>87.943611,27.909445,6404.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Chhochenphu  Himal</name>
+					<description>6260 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>87.767220,27.831944,6260.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Lahung Kang</name>
+					<description>6786 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.180000,27.856112,6786.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Lanpo Peak</name>
+					<description>6965 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.197502,27.853333,6965.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Nangamari   2</name>
+					<description>6205 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>87.866669,27.891390,6205.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Nangamari 1</name>
+					<description>6547 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>87.868057,27.910557,6547.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Pabuk  Kang  </name>
+					<description>6244 meters. Kangata </description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>87.843887,27.949722,6244.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Yanme Kang</name>
+					<description>6206 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>87.850555,27.946112,6206.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Janakpur</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Janakpur </description>
+			<Folder>
+				<name>Rolwaling</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Rolwaling </description>
+				<Placemark>
+					<name>Chobuje</name>
+					<description>6685 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>68.492500,27.880556,6685.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Dranganag Ri</name>
+					<description>6801 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.524445,27.939444,6801.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gauri Shanker</name>
+					<description>7134 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>86.335281,27.965834,7134.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Khatang</name>
+					<description>6582 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.597221,27.756945,6582.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Parchamo</name>
+					<description>6187 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.534447,27.827778,6187.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ramdung</name>
+					<description>5925 meters</description>
+					<styleUrl>mountain-5k-style</styleUrl>
+					<Point>
+						<coordinates>86.433334,27.817499,5925.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Karnali</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Karnali </description>
+			<Folder>
+				<name>Changla</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Changla </description>
+				<Placemark>
+					<name>Changla</name>
+					<description>6563 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>82.128891,30.303057,6563.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Changla  Himal</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Changla  Himal </description>
+				<Placemark>
+					<name>Lachama Chuli</name>
+					<description>6721 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>82.199448,30.135555,6721.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Jagdula</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Jagdula </description>
+				<Placemark>
+					<name>Jagdula Peak</name>
+					<description>5764 meters</description>
+					<styleUrl>mountain-5k-style</styleUrl>
+					<Point>
+						<coordinates>82.591667,29.325001,5764.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Kanjiroba</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Kanjiroba </description>
+				<Placemark>
+					<name>Kagmara</name>
+					<description>5960 meters</description>
+					<styleUrl>mountain-5k-style</styleUrl>
+					<Point>
+						<coordinates>82.761108,29.138889,5960.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kangtokla</name>
+					<description>6294 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.334724,28.800278,6294.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kanjerawa</name>
+					<description>6612 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>82.876389,28.233334,6612.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kanjiroba  </name>
+					<description>6883 meters. Mainpeak</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>82.643059,29.373056,6883.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mariyang</name>
+					<description>6528 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>82.890282,29.693056,6528.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Shey Shikhar</name>
+					<description>6139 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>82.796387,29.286943,6139.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Swaksa Kang</name>
+					<description>6405 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>82.860001,29.687500,6405.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Tripura Hiunchuli </name>
+					<description>6563 meters. Hanging Glacier  Peak</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>82.736946,29.326668,6563.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Kanti Himal</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Kanti Himal </description>
+				<Placemark>
+					<name>Kaptang</name>
+					<description>5965 meters</description>
+					<styleUrl>mountain-5k-style</styleUrl>
+					<Point>
+						<coordinates>82.575554,29.926390,5965.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kojichwa Chuli</name>
+					<description>6439 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>82.646385,29.863890,6439.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Nalakankar</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Nalakankar </description>
+				<Placemark>
+					<name>Nala Kankar</name>
+					<description>6062 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>81.399445,30.357500,6062.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Takphu Himal</name>
+					<description>6395 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>81.417778,30.283890,6395.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Tilkang</name>
+					<description>6369 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>81.414719,30.270000,6369.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Patrasi</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Patrasi </description>
+				<Placemark>
+					<name>Kande Hiunchuli</name>
+					<description>6627 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>82.560280,29.411112,6627.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Patrasi</name>
+					<description>6450 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>82.587502,29.422777,6450.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Sisne</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Sisne </description>
+				<Placemark>
+					<name>Sisne</name>
+					<description>5849 meters</description>
+					<styleUrl>mountain-5k-style</styleUrl>
+					<Point>
+						<coordinates>80.341667,29.783333,5849.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Koshi</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Koshi </description>
+			<Folder>
+				<name>Barun</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Barun </description>
+				<Placemark>
+					<name>Barun Tse</name>
+					<description>7129 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>86.981941,27.871944,7129.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Mahalangur</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Mahalangur </description>
+				<Placemark>
+					<name>Makalu I</name>
+					<description>8463 meters</description>
+					<styleUrl>mountain-8k-style</styleUrl>
+					<Point>
+						<coordinates>87.088890,27.889723,8463.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Makalu II  </name>
+					<description>7678 meters. Kangchugtse</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>87.078888,27.915833,7678.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Mahakali</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Mahakali </description>
+			<Folder>
+				<name>Gurans</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Gurans </description>
+				<Placemark>
+					<name>Api</name>
+					<description>7132 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>80.933334,30.004168,7132.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Jethi Bahurani</name>
+					<description>6850 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>81.043610,29.882221,6850.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Nampa</name>
+					<description>6755 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>81.000000,30.008333,6755.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Gurans/Saipal</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Gurans/Saipal </description>
+				<Placemark>
+					<name>Saipal</name>
+					<description>7031 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>81.495277,29.887222,7031.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Gurans/Yoka</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Gurans/Yoka </description>
+				<Placemark>
+					<name>Bobaye</name>
+					<description>6808 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>81.022499,29.959167,6808.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Manang</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Manang </description>
+			<Folder>
+				<name>Peri</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Peri </description>
+				<Placemark>
+					<name>Gyajikang</name>
+					<description>7038 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>84.367775,26.735001,7038.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Panbari</name>
+					<description>6887 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.482498,28.718889,6887.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ratna Chuli</name>
+					<description>7128 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>84.367226,28.864721,7128.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Peri Himal</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Peri Himal </description>
+				<Placemark>
+					<name>Chako</name>
+					<description>6704 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.288612,28.880833,6704.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Phu Kang</name>
+					<description>6694 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.447502,28.793056,6694.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Manang/Gandaki</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Manang/Gandaki </description>
+			<Folder>
+				<name>Manang</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Manang </description>
+				<Placemark>
+					<name>Nemjung</name>
+					<description>7139 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>84.419998,28.737223,7139.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Manang/Mustang</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Manang/Mustang </description>
+			<Folder>
+				<name>Damodar</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Damodar </description>
+				<Placemark>
+					<name>Pokharkan</name>
+					<description>6346 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.188332,28.900000,6346.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Mechi</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Mechi </description>
+			<Folder>
+				<name>Janak</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Janak </description>
+				<Placemark>
+					<name>Jongsang Peak</name>
+					<description>7483 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>88.135559,27.881111,7483.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ohmi Kanga</name>
+					<description>6829 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>87.964165,27.897778,6829.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Kachenjunga</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Kachenjunga </description>
+				<Placemark>
+					<name>Yalung Kang</name>
+					<description>8505 meters</description>
+					<styleUrl>mountain-8k-style</styleUrl>
+					<Point>
+						<coordinates>88.140282,27.754168,8505.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Kanchenjunga</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Kanchenjunga </description>
+				<Placemark>
+					<name>Drahmo</name>
+					<description>6855 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.249725,28.416389,6855.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gimigela Chuli</name>
+					<description>7350 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>88.176392,20.820000,7350.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kanchenjunga  </name>
+					<description>8586 meters. Main</description>
+					<styleUrl>mountain-8k-style</styleUrl>
+					<Point>
+						<coordinates>88.156944,27.702499,8586.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kanchenjunga  </name>
+					<description>8476 meters. Sough</description>
+					<styleUrl>mountain-8k-style</styleUrl>
+					<Point>
+						<coordinates>88.156944,27.691944,8476.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kanchenujunga</name>
+					<description>8476 meters</description>
+					<styleUrl>mountain-8k-style</styleUrl>
+					<Point>
+						<coordinates>88.155556,27.709723,8476.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kangbachen</name>
+					<description>7903 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>88.113335,27.716667,7903.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kumbhakarna  </name>
+					<description>7710 meters. Jannu</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>88.045830,27.682777,7710.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Lemgpo Peak</name>
+					<description>6954 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.198891,27.853611,6954.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Nepal Peak</name>
+					<description>6910 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.175003,27.776943,6910.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Pathivara Chuli</name>
+					<description>7125 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>88.176392,20.820000,7125.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ramchaur</name>
+					<description>4500 meters</description>
+					<styleUrl>mountain-5k-style</styleUrl>
+					<Point>
+						<coordinates>88.028336,27.595833,4500.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ramtang</name>
+					<description>6601 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.095833,27.750834,6601.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Tengkoma</name>
+					<description>6215 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.089996,27.809723,6215.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Kangchenjunga</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Kangchenjunga </description>
+				<Placemark>
+					<name>Kirat Chuli </name>
+					<description>7365 meters. Tent Peak</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>88.198608,27.786112,7365.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Mugu</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Mugu </description>
+			<Folder>
+				<name>Kanti</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Kanti </description>
+				<Placemark>
+					<name>Kanti Himal</name>
+					<description>6859 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>82.751663,29.765833,6859.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Mustang</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Mustang </description>
+			<Folder>
+				<name>Damodar</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Damodar </description>
+				<Placemark>
+					<name>Arniko Chuli</name>
+					<description>6039 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.656944,29.176390,6039.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Chhiv Himal</name>
+					<description>6581 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.158333,28.871944,6581.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gajang</name>
+					<description>6111 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.032776,28.785000,6111.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gaugiri</name>
+					<description>6110 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.187775,29.212500,6110.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hongde</name>
+					<description>6556 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.410004,28.853056,6556.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Jomsom Himal</name>
+					<description>6581 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.158333,28.871944,6581.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kang Kuru</name>
+					<description>6320 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.188332,28.900000,6320.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Khumjung</name>
+					<description>6699 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.127777,28.889444,6699.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Pokharkhan</name>
+					<description>6348 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.493057,28.706112,6348.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Putkhang</name>
+					<description>6120 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.992500,28.815001,6120.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Putrung</name>
+					<description>6466 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.019722,28.134443,6466.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Saribung</name>
+					<description>6346 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.172775,28.884722,6346.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Yakawa Kang</name>
+					<description>6482 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.944725,28.808332,6482.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Mukut</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Mukut </description>
+				<Placemark>
+					<name>Hongde</name>
+					<description>6556 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.499168,28.842777,6556.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Mustang/Manang</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Mustang/Manang </description>
+			<Folder>
+				<name>Damodar</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Damodar </description>
+				<Placemark>
+					<name>Amolsang</name>
+					<description>6392 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>84.172218,28.835278,6392.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Rasuwa/Bagmati</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Rasuwa/Bagmati </description>
+			<Folder>
+				<name>Langtang</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Langtang </description>
+				<Placemark>
+					<name>Ghenye Liru</name>
+					<description>6571 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>85.422775,28.245832,6571.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Rolwaling</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Rolwaling </description>
+			<Folder>
+				<name>Mahalangur</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Mahalangur </description>
+				<Placemark>
+					<name>Linku Chuli1 </name>
+					<description>6719 meters.  Pig Pherago Shar </description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.545280,27.811111,6719.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Linku Chuli2 </name>
+					<description>6659 meters.  Pig Pherago Nup </description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.526390,27.805000,6659.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Panalotapa</name>
+					<description>6687 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.569168,27.804167,6687.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Takargo</name>
+					<description>6771 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.511948,27.874722,6771.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Sagarmatha</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Sagarmatha </description>
+			<Folder>
+				<name>Khumbu</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Khumbu </description>
+				<Placemark>
+					<name>Ama Dablam</name>
+					<description>6812 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.863892,27.861668,6812.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Chhukung Ri</name>
+					<description>5550 meters</description>
+					<styleUrl>mountain-5k-style</styleUrl>
+					<Point>
+						<coordinates>86.881943,27.924723,5550.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Cholatse</name>
+					<description>6440 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.771667,27.885000,6440.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name><![CDATA[Cho­O­You]]></name>
+					<description>8201 meters</description>
+					<styleUrl>mountain-8k-style</styleUrl>
+					<Point>
+						<coordinates>86.661942,28.093611,8201.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gokyori</name>
+					<description>5450 meters</description>
+					<styleUrl>mountain-5k-style</styleUrl>
+					<Point>
+						<coordinates>86.682777,27.967501,5450.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gyachung Kang</name>
+					<description>7952 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>86.742226,28.098057,7952.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Imja Tse </name>
+					<description>6183 meters. Island  Peak</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.937225,27.920834,6183.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kangtega </name>
+					<description>6779 meters. Kantega</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.818611,27.792221,6779.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Khongma Tse</name>
+					<description>5849 meters</description>
+					<styleUrl>mountain-5k-style</styleUrl>
+					<Point>
+						<coordinates>86.841667,27.943611,5849.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kusum Kanguru</name>
+					<description>6367 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.791115,27.730556,6367.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Lhotse</name>
+					<description>8516 meters</description>
+					<styleUrl>mountain-8k-style</styleUrl>
+					<Point>
+						<coordinates>86.934166,27.962500,8516.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Lhotse Shar</name>
+					<description>8400 meters</description>
+					<styleUrl>mountain-8k-style</styleUrl>
+					<Point>
+						<coordinates>86.943054,27.958332,8400.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Lobuje</name>
+					<description>6119 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.784721,27.968889,6119.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Lobuje West</name>
+					<description>6145 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.779167,27.889723,6145.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mera Peak</name>
+					<description>6654 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.911110,27.774166,6654.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ngojumbakang</name>
+					<description>7743 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>86.706108,28.106112,7743.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Nuptse</name>
+					<description>7855 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>85.887222,27.967222,7855.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Pokhalde</name>
+					<description>5806 meters</description>
+					<styleUrl>mountain-5k-style</styleUrl>
+					<Point>
+						<coordinates>86.836113,27.937500,5806.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Pumori</name>
+					<description>7161 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>86.828056,28.014723,7161.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sagarmatha</name>
+					<description>8848 meters</description>
+					<styleUrl>mountain-8k-style</styleUrl>
+					<Point>
+						<coordinates>86.925278,27.988056,8848.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Shartse</name>
+					<description>7459 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>86.983330,27.965555,7459.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Tawoche</name>
+					<description>6501 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.779999,27.896667,6501.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Thamserku</name>
+					<description>6623 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.787498,27.790277,6623.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Mahalangur</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Mahalangur </description>
+				<Placemark>
+					<name>Cho Polu</name>
+					<description>6711 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.981941,27.919167,6711.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hunchi</name>
+					<description>7036 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>86.758331,28.034721,7036.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Khangri Shar</name>
+					<description>6811 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.812775,28.018612,6811.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Lung Sampa</name>
+					<description>6100 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.704445,28.059168,6100.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Numri</name>
+					<description>6677 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.800835,28.022223,6677.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Pasang Lhamu</name>
+					<description>7351 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>86.614166,28.073334,7351.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Peak 38</name>
+					<description>7590 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>86.965553,27.955833,7590.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Rolwaling</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Rolwaling </description>
+				<Placemark>
+					<name>Kwangde</name>
+					<description>6011 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.633888,27.800278,6011.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Numbur</name>
+					<description>6957 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>83.732780,27.754168,6957.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Rolwalling</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Rolwalling </description>
+				<Placemark>
+					<name>Karyolung</name>
+					<description>6511 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.615280,27.731943,6511.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Sagarmatha Barun</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Sagarmatha Barun </description>
+			<Folder>
+				<name>Mahalangur</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Mahalangur </description>
+				<Placemark>
+					<name>Chamlang</name>
+					<description>7319 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>86.982498,27.775000,7319.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Sagarmatha/Khumbu</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Sagarmatha/Khumbu </description>
+			<Folder>
+				<name>Mahalangur</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Mahalangur </description>
+				<Placemark>
+					<name>Shantishikhar</name>
+					<description>7591 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>86.965553,27.955833,7591.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Shankhuwasava</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Shankhuwasava </description>
+			<Folder>
+				<name><![CDATA[Mahalangur­ Makalu]]></name>
+				<Snippet maxLines="2"> </Snippet>
+				<description><![CDATA[Mahalangur­ Makalu ]]></description>
+				<Placemark>
+					<name>Kyashar</name>
+					<description>6770 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.824997,27.754999,6770.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Singalila</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Singalila </description>
+			<Folder>
+				<name>Kanchanjunga</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Kanchanjunga </description>
+				<Placemark>
+					<name>Kabru</name>
+					<description>7318 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>88.112503,27.608055,7318.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kokthang</name>
+					<description>6148 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.081665,27.563610,6148.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Rothong</name>
+					<description>6682 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.089996,27.593332,6682.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Solukhumbu</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Solukhumbu </description>
+			<Folder>
+				<name>Mahalangur</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Mahalangur </description>
+				<Placemark>
+					<name>Abi</name>
+					<description>6097 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.971664,27.740833,6097.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Amphu I</name>
+					<description>6840 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.803886,28.036112,6840.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Chago</name>
+					<description>6893 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>87.054726,27.926111,6893.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Gorkha Himal</name>
+					<description>6092 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>82.313889,24.816668,6092.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Jobo Rinjang</name>
+					<description>6666 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.800835,28.022223,6666.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kumbatse</name>
+					<description>6639 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.873055,27.020279,6639.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kyazo Ri</name>
+					<description>6186 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.673615,27.909166,6186.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Langmoche Ri</name>
+					<description>6617 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.607780,28.090555,6617.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Lintren</name>
+					<description>6713 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.869720,28.027500,6713.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Machermo</name>
+					<description>6273 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.716942,28.076389,6273.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Naulekh</name>
+					<description>6240 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.865280,28.025000,6240.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Nirekha Peak</name>
+					<description>6159 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.911110,27.774166,6159.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Ombigaichen</name>
+					<description>6340 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.858330,27.969723,6340.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Phari Lapcha</name>
+					<description>6017 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>86.683334,27.929167,6017.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Tengi Ragi Tau</name>
+					<description>6948 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>96.771385,28.036667,6948.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Taplejung</name>
+			<Snippet maxLines="2"> </Snippet>
+			<description>Taplejung </description>
+			<Folder>
+				<name>Kanchanjunga</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Kanchanjunga </description>
+				<Placemark>
+					<name>Domekhan</name>
+					<description>7264 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>88.151108,27.877777,7264.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Pandra</name>
+					<description>6850 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.204720,27.838888,6850.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Kanchenjunga</name>
+				<Snippet maxLines="2"> </Snippet>
+				<description>Kanchenjunga </description>
+				<Placemark>
+					<name>Anidesh Chuli</name>
+					<description>6960 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.197777,27.854445,6960.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Bokta Peak</name>
+					<description>6143 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.007500,27.620832,6143.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Chang Himal </name>
+					<description>6750 meters. Ramtang  </description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.084999,27.750000,6750.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Janak</name>
+					<description>7090 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>88.152496,27.873056,7090.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Kyabura</name>
+					<description>6332 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.038887,27.902779,6332.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Merra</name>
+					<description>6335 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.016670,27.740833,6335.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Mojka Peak</name>
+					<description>6032 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.051109,27.770832,6032.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Phole</name>
+					<description>6645 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.010277,27.686943,6645.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Rantang Chang</name>
+					<description>6750 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.079720,27.895832,6750.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sharphu II</name>
+					<description>6154 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.077782,27.862499,6154.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sharphu III</name>
+					<description>6885 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.087502,28.823610,6885.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sharphu IV</name>
+					<description>6433 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>87.986946,27.878889,6433.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sharphu V</name>
+					<description>6328 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.038887,27.902779,6328.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sharphu VI</name>
+					<description>6076 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>87.999443,27.867222,6076.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Sobitongie</name>
+					<description>6670 meters</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.028336,27.686390,6670.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Talung</name>
+					<description>7349 meters</description>
+					<styleUrl>mountain-7k-style</styleUrl>
+					<Point>
+						<coordinates>88.133614,27.654167,7349.000000</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Taple Sikhar </name>
+					<description>6341 meters. Cross  Peak</description>
+					<styleUrl>mountain-6k-style</styleUrl>
+					<Point>
+						<coordinates>88.150002,27.750834,6341.000000</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Document>
+</kml>
