@@ -7,4 +7,4 @@ Point in peak-opened-in-nepal.kml are taken from http://www.bochi-bochitrek.com/
 
 Points in Westra folder are taken from http://westra.ru/passes/
 
-Points in Himalaya/Nepal/Langtang are taken from different maps. Langtang peaks and saddles most accurate.kml in MY OPINION is most accurate for now.
+Points in Himalaya/Nepal/Langtang are taken from different maps. https://github.com/mstukalo/mountains_and_passes/blob/master/Himalaya/Nepal/Langtang/Langtang%20peaks%20and%20saddles%20most%20accurate.kml in MY OPINION is most accurate for now.
